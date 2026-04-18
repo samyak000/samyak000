@@ -94,14 +94,10 @@ Used for reasoning, summarization, code generation, and conversational AI.
 
 ## 🎨 Infographics
 
-🧠 Designed visual explanations of technical concepts:
-
 <p align="center">
   <img src="assets/ai-infographic.png" width="45%" />
   <img src="assets/internet.png" width="45%" />
 </p>
-
----
 
 ## 📈 GitHub Stats
 
