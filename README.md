@@ -17,17 +17,30 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-Java • Python • JavaScript  
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
 
-**Web Development:**  
-React • Node.js • HTML • CSS  
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css" />
+</p>
 
-**AI / ML:**  
-PyTorch • NumPy • Pandas • Prompt Engineering  
+### 🤖 AI / ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
 
-**Tools:**  
-Git • GitHub • VS Code  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
+</p>
+
+### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
