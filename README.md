@@ -14,6 +14,37 @@
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,react,html,css,git,github" />
+
+
+  ## 🤖 LLM & Prompt Engineering
+
+### 🧠 What is an LLM?
+Large Language Models (LLMs) are transformer-based neural networks trained on massive text datasets.  
+They use attention mechanisms to predict tokens across billions of parameters, enabling:
+
+- Reasoning
+- Summarization
+- Code generation
+- Conversational AI
+
+---
+
+### ⚙️ Prompting Techniques I Use
+
+- **Role-based prompting**  
+  _"You are a senior data analyst. Analyse this dataset and..."_
+
+- **Instruction-based prompting**  
+  Clear, step-by-step directions for structured outputs
+
+- **Few-shot prompting**  
+  Providing examples to guide response format and quality
+
+- **Chain-of-thought prompting**  
+  Encouraging step-by-step reasoning for better accuracy
+
+- **Output format constraints**  
+  Enforcing structured outputs (JSON, tables, bullet points) for pipeline usage
 </p>
 
 ---
