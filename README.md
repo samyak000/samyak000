@@ -15,6 +15,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,react,html,css,git,github" />
 
+- **Languages:** Java, Python, JavaScript  
+- **Web:** React, HTML, CSS, Node.js  
+- **AI/ML:** PyTorch, NumPy, Pandas, Prompt Engineering  
+- **Tools:** Git, GitHub, VS Code  
 
   ## 🤖 LLM & Prompt Engineering
 
