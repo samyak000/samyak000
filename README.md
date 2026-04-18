@@ -96,7 +96,7 @@ Used for reasoning, summarization, code generation, and conversational AI.
 
 <p align="center">
   <img src="assets/ai-infographic.png" width="45%" />
-  <img src="assets/internet.png" width="45%" />
+  <img src="assets/system.png" width="45%" />
 </p>
 
 ## 📈 GitHub Stats
