@@ -51,24 +51,25 @@
 - Admin dashboard with fraud detection logic  
 - Focus on scalability and security  
 **Tech:** React • Node.js • MongoDB  
-👉 [View Project](#)
+
 
 ---
 
-### 🤖 AI Prompt Tool
+### 🤖 AI Chatbot
 - Generates structured outputs using advanced prompting  
 - Implements few-shot and chain-of-thought techniques  
 - Designed for automation pipelines  
 **Tech:** Python • LLM APIs  
-👉 [View Project](#)
 
----
 
-### 📊 Data Analysis Project
-- Data processing and visualization using Python  
-- Extracted insights using Pandas & NumPy  
-**Tech:** Python • Pandas • NumPy  
-👉 [View Project](#)
+
+
+ ### Hospital Resource Provider
+ - Live bed availability
+ - Live oxygen cylinder avalability and booking
+ - Scalable to a vast extent
+ - AI medical chatbot 
+
 
 ---
 
@@ -123,8 +124,8 @@ Used for reasoning, summarization, code generation, and conversational AI.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add your link)  
-- Email: (add your email)  
+- LinkedIn: www.linkedin.com/in/samyak-jain-08129024a
+- Email: 2300300100151@ipec.org.in
 
 ---
 
