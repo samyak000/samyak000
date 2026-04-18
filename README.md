@@ -1,84 +1,117 @@
 <h1 align="center">Hi 👋, I'm Samyak</h1>
-<h3 align="center">Aspiring Software Developer | DSA | Web Dev</h3>
+<h3 align="center">Aspiring Software Developer | Full Stack | AI Enthusiast</h3>
 
----
-
-## 🚀 About Me
-- 🎓 Student passionate about tech
-- 💻 Currently learning **React, Java, DSA**
-- ⚡ Love building real-world projects
-- 📈 Improving problem-solving daily
-
----
-
-## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,html,css,git,github" />
-
-- **Languages:** Java, Python, JavaScript  
-- **Web:** React, HTML, CSS, Node.js  
-- **AI/ML:** PyTorch, NumPy, Pandas, Prompt Engineering  
-- **Tools:** Git, GitHub, VS Code  
-
-  ## 🤖 LLM & Prompt Engineering
-
-### 🧠 What is an LLM?
-Large Language Models (LLMs) are transformer-based neural networks trained on massive text datasets.  
-They use attention mechanisms to predict tokens across billions of parameters, enabling:
-
-- Reasoning
-- Summarization
-- Code generation
-- Conversational AI
-
----
-
-### ⚙️ Prompting Techniques I Use
-
-- **Role-based prompting**  
-  _"You are a senior data analyst. Analyse this dataset and..."_
-
-- **Instruction-based prompting**  
-  Clear, step-by-step directions for structured outputs
-
-- **Few-shot prompting**  
-  Providing examples to guide response format and quality
-
-- **Chain-of-thought prompting**  
-  Encouraging step-by-step reasoning for better accuracy
-
-- **Output format constraints**  
-  Enforcing structured outputs (JSON, tables, bullet points) for pipeline usage
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;DSA+Enthusiast;AI+%26+LLM+Explorer&center=true&width=500&height=50">
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 About Me
+- 🎓 Student passionate about building real-world tech
+- 💻 Focused on **Full Stack Development + AI**
+- 🧠 Strong interest in **DSA & problem solving**
+- ⚡ Currently working on scalable and impactful projects
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+Java • Python • JavaScript  
+
+**Web Development:**  
+React • Node.js • HTML • CSS  
+
+**AI / ML:**  
+PyTorch • NumPy • Pandas • Prompt Engineering  
+
+**Tools:**  
+Git • GitHub • VS Code  
+
+---
+
+## 🚀 Featured Projects
+
+### 🗳️ Smart Voting System
+- Secure voting platform with OTP authentication  
+- Admin dashboard with fraud detection logic  
+- Focus on scalability and security  
+**Tech:** React • Node.js • MongoDB  
+👉 [View Project](#)
+
+---
+
+### 🤖 AI Prompt Tool
+- Generates structured outputs using advanced prompting  
+- Implements few-shot and chain-of-thought techniques  
+- Designed for automation pipelines  
+**Tech:** Python • LLM APIs  
+👉 [View Project](#)
+
+---
+
+### 📊 Data Analysis Project
+- Data processing and visualization using Python  
+- Extracted insights using Pandas & NumPy  
+**Tech:** Python • Pandas • NumPy  
+👉 [View Project](#)
+
+---
+
+## 🤖 LLM & Prompt Engineering
+
+🧠 **Large Language Models (LLMs)**  
+Transformer-based models trained on large-scale text data using attention mechanisms.  
+Used for reasoning, summarization, code generation, and conversational AI.
+
+⚙️ **Techniques I Apply**
+- Role-based prompting  
+- Instruction-based prompting  
+- Few-shot prompting  
+- Chain-of-thought reasoning  
+- Structured output formatting (JSON / tables)
+
+### 🚀 Practical Application
+- Built prompt-based systems for structured outputs  
+- Designed reusable prompt workflows  
+
+---
+
+## 🎨 Infographics
+
+🧠 Designed visual explanations of technical concepts:
+
+<p align="center">
+  <img src="assets/ai-infographic.png" width="45%" />
+  <img src="assets/internet.png" width="45%" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samyak000&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samyak000&theme=tokyonight" />
 </p>
 
----
-
-## 🔥 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyak000&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-- 🚀 AI Voting System
-- AI Chatbot
-- Hospital Resource Provider 
-- OTT Platform 
+## 📈 What I'm Currently Doing
+- 🚀 Building full-stack applications  
+- 🧠 Practicing DSA regularly  
+- 🤖 Exploring AI and LLM-based solutions  
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/samyak-jain-08129024a
-- Email: 2300300100151@ipec.org.in
+- LinkedIn: (add your link)  
+- Email: (add your email)  
 
 ---
 
