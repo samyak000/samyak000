@@ -59,7 +59,7 @@
 - Generates structured outputs using advanced prompting  
 - Implements few-shot and chain-of-thought techniques  
 - Designed for automation pipelines  
-- LIVE : aichatbot-pink-seven.vercel.app
+- LIVE : aichatbot-pink-seven.vercel.app (paste the link in browser)
 
 
 
