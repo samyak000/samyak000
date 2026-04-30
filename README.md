@@ -64,7 +64,7 @@
 
 
 
- ### Hospital Resource Provider
+ ### 🚑 CURA:Hospital Resource Provider
  - Live bed availability
  - Live oxygen cylinder avalability and booking
  - Scalable to a vast extent
