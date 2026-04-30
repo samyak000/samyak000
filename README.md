@@ -68,7 +68,8 @@
  - Live bed availability
  - Live oxygen cylinder avalability and booking
  - Scalable to a vast extent
- - AI medical chatbot 
+ - AI medical chatbot
+ - LIVE : https://samyak0002.pythonanywhere.com/core/login/
 
 
 ---
