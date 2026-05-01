@@ -1,10 +1,13 @@
+<p align="center">
+  <img src="YOUR_IMAGE_LINK" width="150" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Samyak</h1>
 <h3 align="center">Aspiring Software Developer | Full Stack | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;DSA+Enthusiast;AI+%26+LLM+Explorer&center=true&width=500&height=50">
 </p>
-
 ---
 
 ## 🚀 About Me
