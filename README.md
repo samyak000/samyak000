@@ -2,7 +2,7 @@
   <img src="assets/banner.gif" height="300"  width="2000"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Samyak;Full+Stack+Developer;AI+Explorer&repeat=true&multiline=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:6600ff&height=200&section=header&text=Hi%20👋%20I'm%20Samyak&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
 ## 🚀 About Me
