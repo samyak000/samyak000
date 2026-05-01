@@ -30,8 +30,6 @@
 ### 🤖 AI / ML
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch" />
-
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
 </p>
