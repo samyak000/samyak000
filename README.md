@@ -1,14 +1,13 @@
 <p align="center">
-  <img src="https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2ViJTIwZGV2ZWxvcG1lbnR8ZW58MHx8MHx8fDA%3D" width="100%" />
+  <img src="https://blog.wxperts.com/wp-content/uploads/2024/04/dippingtoe.png?w=1108&h=720&crop=1" alt="banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Samyak</h1>
+<h1 align="center">Hi there 👋, I'm Samyak Jain</h1>
 <h3 align="center">Aspiring Software Developer | Full Stack | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;DSA+Enthusiast;AI+%26+LLM+Explorer&center=true&width=500&height=50">
 </p>
----
 
 ## 🚀 About Me
 - 🎓 Student passionate about building real-world tech  
