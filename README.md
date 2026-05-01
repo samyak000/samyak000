@@ -15,29 +15,58 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🚀 Tech Stack</h2>
 
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
+<table align="center">
+<tr>
+<th>Languages</th>
+<th>Frontend</th>
+<th>Backend</th>
+<th>Database</th>
+<th>Tools</th>
+</tr>
 
-### 🌐 Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css" />
-</p>
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=python" /><br>
+  <img src="https://skillicons.dev/icons?i=cpp" /><br>
+  <img src="https://skillicons.dev/icons?i=c" /><br>
+  <img src="https://skillicons.dev/icons?i=java" /><br>
+  <img src="https://skillicons.dev/icons?i=dart" /><br>
+  <img src="https://skillicons.dev/icons?i=kotlin" />
+</td>
 
-### 🤖 AI / ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
-</p>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=react" /><br>
+  <img src="https://skillicons.dev/icons?i=nextjs" /><br>
+  <img src="https://skillicons.dev/icons?i=tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=html" /><br>
+  <img src="https://skillicons.dev/icons?i=css" /><br>
+  <img src="https://skillicons.dev/icons?i=flutter" />
+</td>
 
-### 🛠️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" /><br>
+  <img src="https://skillicons.dev/icons?i=django" /><br>
+  <img src="https://skillicons.dev/icons?i=flask" /><br>
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+</td>
+
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=firebase" /><br>
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+</td>
+
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=git" /><br>
+  <img src="https://skillicons.dev/icons?i=github" /><br>
+  <img src="https://skillicons.dev/icons?i=linux" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</td>
+</tr>
+</table>
 
 ---
 
