@@ -8,10 +8,10 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Student passionate about building real-world tech
-- 💻 Focused on **Full Stack Development + AI**
-- 🧠 Strong interest in **DSA & problem solving**
-- ⚡ Currently working on scalable and impactful projects
+- 🎓 Student passionate about building real-world tech  
+- 💻 Focused on **Full Stack Development + AI**  
+- 🧠 Strong interest in **DSA & Problem Solving**  
+- ⚡ Building scalable and impactful projects  
 
 ---
 
@@ -39,10 +39,13 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-<p>
-  <img src="https://raw.githubusercontent.com/samyak000/samyak000/output/github-snake.svg" />
-</p>
+---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samyak000/samyak000/output/github-snake-dark.svg" />
+</p>
 
 ---
 
@@ -54,53 +57,41 @@
 - Focus on scalability and security  
 **Tech:** React • Node.js • MongoDB  
 
-
 ---
 
 ### 🤖 AI Chatbot
 - Generates structured outputs using advanced prompting  
-- Implements few-shot and chain-of-thought techniques  
+- Implements few-shot & chain-of-thought techniques  
 - Designed for automation pipelines  
-- LIVE : https://aichatbot-pink-seven.vercel.app/
+🔗 LIVE: https://aichatbot-pink-seven.vercel.app/
 
+---
 
-
-
- ### 🚑 CURA:Hospital Resource Provider
- - Live bed availability
- - Live oxygen cylinder avalability and booking
- - Scalable to a vast extent
- - AI medical chatbot
- - LIVE : https://samyak0002.pythonanywhere.com/core/login/
-
+### 🚑 CURA: Hospital Resource Provider
+- Live bed & oxygen availability  
+- Booking system with scalability focus  
+- AI-powered medical chatbot  
+🔗 LIVE: https://samyak0002.pythonanywhere.com/core/login/
 
 ---
 
 ## 🤖 LLM & Prompt Engineering
 
-🧠 **Large Language Models (LLMs)**  
-Transformer-based models trained on large-scale text data using attention mechanisms.  
-Used for reasoning, summarization, code generation, and conversational AI.
+### 🧠 What I Work With
+- Transformer-based models for reasoning & automation  
+- Applications in summarization, chatbots & code generation  
 
-⚙️ **Techniques I Apply**
+### ⚙️ Techniques
 - Role-based prompting  
-- Instruction-based prompting  
 - Few-shot prompting  
 - Chain-of-thought reasoning  
-- Structured output formatting (JSON / tables)
+- Structured outputs (JSON / tables)  
 
-### 🚀 Practical Application
-- Built prompt-based systems for structured outputs  
+### 🚀 Applications
+- Built prompt-based structured output systems  
 - Designed reusable prompt workflows  
 
 ---
-
-## 🎨 Infographics
-
-<p align="center">
-  <img src="assets/ai-infographic.png" width="45%" />
-  <img src="assets/system.png" width="45%" />
-</p>
 
 ## 📈 GitHub Stats
 
@@ -113,19 +104,27 @@ Used for reasoning, summarization, code generation, and conversational AI.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyak000&layout=compact&theme=tokyonight" />
 </p>
 
+---
+
+## 🎨 Infographics
+
+<p align="center">
+  <img src="assets/ai-infographic.png" width="45%" />
+  <img src="assets/system.png" width="45%" />
+</p>
 
 ---
 
 ## 📈 What I'm Currently Doing
 - 🚀 Building full-stack applications  
-- 🧠 Practicing DSA regularly  
-- 🤖 Exploring AI and LLM-based solutions  
+- 🧠 Practicing DSA consistently  
+- 🤖 Exploring AI & LLM-based systems  
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/samyak-jain-08129024a
-- Email: 2300300100151@ipec.org.in
+- LinkedIn: https://www.linkedin.com/in/samyak-jain-08129024a  
+- Email: 2300300100151@ipec.org.in  
 
 ---
 
