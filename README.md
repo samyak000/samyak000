@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://the-decoder.com/wp-content/uploads/2025/05/qwen_webdev.png" height="600" width="2000" />
+  <imgsrc="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRpNHFrMjlqM2kyeXBibGl6aGRhNTNhN2c4ZnU2YnFvcmFxYmRzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" height="220" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Samyak Jain</h1>
-<h3 align="center">Aspiring Software Developer | Full Stack | AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Samyak</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;DSA+Enthusiast;AI+%26+LLM+Explorer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Explorer;Problem+Solver&center=true&width=500&height=50">
 </p>
 
 ## 🚀 About Me
