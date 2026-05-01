@@ -2,7 +2,7 @@
   <img src="assets/banner.gif" height="300"  width="2000"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Samyak;Full+Stack+Developer;AI+Explorer&center=true&width=600&height=60">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=1800&pause=700&color=39FF14&center=true&vCenter=true&width=750&height=90&lines=Hi+👋,+I'm+Samyak;Full+Stack+Developer;AI+Explorer" />
 </p>
 
 ## 🚀 About Me
