@@ -108,6 +108,10 @@ Used for reasoning, summarization, code generation, and conversational AI.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyak000&layout=compact&theme=tokyonight" />
 </p>
 
+<p>
+  <img src="https://raw.githubusercontent.com/samyak000/samyak000/output/github-snake.svg" />
+</p>
+
 ---
 
 ## 📈 What I'm Currently Doing
