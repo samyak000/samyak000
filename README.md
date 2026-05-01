@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" height="220" />
+  <img src="assets/banner.gif" height="220" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Samyak</h1>
 <h3 align="center">Aspiring Software Developer | Full Stack | AI Enthusiast</h3>
 
