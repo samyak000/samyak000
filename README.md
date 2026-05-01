@@ -3,10 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Samyak</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Explorer;Problem+Solver&center=true&width=500&height=50">
-</p>
+<h3 align="center">Aspiring Software Developer | Full Stack | AI Enthusiast</h3>
 
 ## 🚀 About Me
 - 🎓 Student passionate about building real-world tech  
