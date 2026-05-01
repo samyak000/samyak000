@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://blog.wxperts.com/wp-content/uploads/2024/04/dippingtoe.png?w=1108&h=720&crop=1" height="250" width="2000" />
+  <img src="https://blog.wxperts.com/wp-content/uploads/2024/04/dippingtoe.png?w=1108&h=720&crop=1" height="500" width="2000" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Samyak Jain</h1>
