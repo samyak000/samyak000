@@ -1,9 +1,9 @@
 <p align="center">
   <img src="assets/banner.gif" height="300"  width="2000"/>
 </p>
-<h1 align="center">Hi 👋, I'm Samyak</h1>
-<h3 align="center">Aspiring Software Developer | Full Stack | AI Enthusiast</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Samyak;Aspiring+Software+Developer;Full+Stack+%7C+AI+Enthusiast&center=true&width=600&height=80">
+</p>
 ## 🚀 About Me
 - 🎓 Student passionate about building real-world tech  
 - 💻 Focused on **Full Stack Development + AI**  
