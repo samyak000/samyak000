@@ -2,9 +2,8 @@
   <img src="assets/banner.gif" height="300"  width="2000"/>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:6600ff&height=200&section=header&text=Hi%20👋%20I'm%20Samyak&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Samyak;Aspiring+Software+Developer;Full+Stack+%7C+AI+Enthusiast&center=true&width=600&height=80">
 </p>
-
 ## 🚀 About Me
 - 🎓 Student passionate about building real-world tech  
 - 💻 Focused on **Full Stack Development + AI**  
