@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" height="500"  width="2000"/>
+  <img src="assets/banner.gif" height="300"  width="2000"/>
 </p>
 <h1 align="center">Hi 👋, I'm Samyak</h1>
 <h3 align="center">Aspiring Software Developer | Full Stack | AI Enthusiast</h3>
