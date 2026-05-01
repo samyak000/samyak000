@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRpNHFrMjlqM2kyeXBibGl6aGRhNTNhN2c4ZnU2YnFvcmFxYmRzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" height="220" />
+  <img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" height="220" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Samyak</h1>
