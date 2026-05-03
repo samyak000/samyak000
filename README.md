@@ -80,11 +80,11 @@
 
 ### 🗳️ Playzen
 
-🎥 Browse a curated collection of movies
-🖼️ Display movie posters and basic details
-🎨 Clean and modern user interface
-📱 Fully responsive design
-⚡ Fast and lightweight (no API calls)
+- Browse a curated collection of movies
+-Display movie posters and basic details
+- Clean and modern user interface
+- Fully responsive design
+- Fast and lightweight (no API calls)
 🔗 LIVE: https://playzen-mu.vercel.app/
 
 ---
