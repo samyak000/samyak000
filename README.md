@@ -78,11 +78,14 @@
 
 ## 🚀 Featured Projects
 
-### 🗳️ Smart Voting System
-- Secure voting platform with OTP authentication  
-- Admin dashboard with fraud detection logic  
-- Focus on scalability and security  
-**Tech:** React • Node.js • MongoDB  
+### 🗳️ Playzen
+
+🎥 Browse a curated collection of movies
+🖼️ Display movie posters and basic details
+🎨 Clean and modern user interface
+📱 Fully responsive design
+⚡ Fast and lightweight (no API calls)
+🔗 LIVE: https://playzen-mu.vercel.app/
 
 ---
 
