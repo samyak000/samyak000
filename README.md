@@ -85,7 +85,7 @@
 - Clean and modern user interface
 - Fully responsive design
 - Fast and lightweight (no API calls)
--🔗 LIVE: https://playzen-mu.vercel.app/
+🔗 LIVE: https://playzen-mu.vercel.app/
 
 ---
 
