@@ -76,9 +76,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🎬 Featured Projects
 
-### 🗳️ Playzen
+###  Playzen
 
 - Browse a curated collection of movies
 -Display movie posters and basic details
